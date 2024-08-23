@@ -39,15 +39,3 @@ CREATE TABLE loans (
 DROP TABLE loan;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
