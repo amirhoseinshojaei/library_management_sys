@@ -12,4 +12,9 @@ VALUES  ('alexander', '1920-01-13'),
         ('J.R.R. Tolkien', '1892-01-03');
 
 
-
+INSERT INTO books (name, gener, publication_year, author_id)VALUES
+('harry','fantasy',1999,1),
+('jonas','teenager',1999,2),
+('stranger','action',1999,3),
+('snowpierce','science',1999,4)
+;
