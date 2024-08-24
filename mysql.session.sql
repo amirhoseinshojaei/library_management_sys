@@ -18,3 +18,10 @@ INSERT INTO books (name, gener, publication_year, author_id)VALUES
 ('stranger','action',1999,3),
 ('snowpierce','science',1999,4)
 ;
+
+
+INSERT INTO borrowers (first_name, last_name, phone_number, address)
+VALUES  ('alex', 'jokovich', '98-910-989-1', NULL),
+        ('Aram','Shojaei','98-934-935-1','123 main st'),
+        ('hunam','suzane','94-932-980-1', '22 main frank')
+;
