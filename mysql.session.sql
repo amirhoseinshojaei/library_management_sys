@@ -25,3 +25,12 @@ VALUES  ('alex', 'jokovich', '98-910-989-1', NULL),
         ('Aram','Shojaei','98-934-935-1','123 main st'),
         ('hunam','suzane','94-932-980-1', '22 main frank')
 ;
+
+
+
+INSERT INTO loans (book_id, borrow_id, loan_date, return_date)
+VALUES  (1, 3, '2024-08-01', NULL),
+        (4, 2, '2024-08-05', '2024-08-12'),
+        (1, 1, '2024-08-05', '2024-08-22'),
+        (2, 3, '2024-05-01', '2024-05-12')
+;
